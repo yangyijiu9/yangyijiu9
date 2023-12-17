@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🔭 I’m currently working on Cybercore.co.jp.
-- 🌱 I’m currently learning Github, Deeplearing.
+- 🌱 I’m currently learning Github, Deeplearning.
 - 📫 How to reach me: yijiu.yang@cybercore.co.jp
 
 
